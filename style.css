@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    background: lightsalmon;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
